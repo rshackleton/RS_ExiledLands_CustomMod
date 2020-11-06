@@ -1,0 +1,16 @@
+{
+	"name": "Shackleberry's Custom Mod",
+	"description": "Custom mod for a private server.",
+	"changeNote": "0.1.2\nAdd Iron and Steel reinforcements to the new blacksmith benches",
+	"author": "Shackleberry",
+	"authorUrl": "https://rshackleton.co.uk",
+	"versionMajor": 0,
+	"versionMinor": 1,
+	"versionBuild": 2,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2275184061",
+	"steamVisibility": 0,
+	"folderName": "RS_ExiledLands_CustomMod",
+	"revisionNumber": 255795,
+	"snapshotId": 26919
+}
